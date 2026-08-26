@@ -7,3 +7,5 @@ numpy
 chromadb
 python-multipart
 rank-bm25
+google-generativeai
+streamlit
